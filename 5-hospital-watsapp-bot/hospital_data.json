@@ -1,0 +1,72 @@
+[
+{
+"department":"cardiology",
+"doctor":"Dr Khan",
+"timing":"6pm - 9pm",
+"fee":"3000",
+"keywords":[
+"heart doctor",
+"heart pain",
+"chest pain",
+"dil ka dard",
+"dil doctor",
+"del ka doctor",
+"dol ka doctor",
+"دل کا درد",
+"دل کا ڈاکٹر",
+"then call that"
+]
+},
+
+{
+"department":"gynae",
+"doctor":"Dr Sara",
+"timing":"5pm - 8pm",
+"fee":"2500",
+"keywords":[
+"pregnancy",
+"ladies doctor",
+"gynae doctor",
+"delivery",
+"lady doctor",
+"لیڈی ڈاکٹر",
+"حمل"
+]
+},
+
+{
+"department":"dermatology",
+"doctor":"Dr Ali",
+"timing":"4pm - 7pm",
+"fee":"2000",
+"keywords":[
+"skin doctor",
+"skin problem",
+"acne",
+"rash",
+"جلد",
+"جلد کا ڈاکٹر"
+]
+},
+
+{
+"service":"blood test",
+"price":"1500",
+"keywords":[
+"blood test",
+"lab test",
+"cbc",
+"خون کا ٹیسٹ"
+]
+},
+
+{
+"service":"ultrasound",
+"price":"3500",
+"keywords":[
+"ultrasound",
+"pregnancy scan",
+"الٹراساؤنڈ"
+]
+}
+]
