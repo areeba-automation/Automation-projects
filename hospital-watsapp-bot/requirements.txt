@@ -1,0 +1,10 @@
+Flask
+requests
+numpy
+faiss-cpu
+sentence-transformers
+vosk
+pydub
+gspread
+oauth2client
+phonenumbers
